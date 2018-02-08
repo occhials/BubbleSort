@@ -25,7 +25,7 @@ public class BubleSort {
 		k=k-1;
 	}while(sw == 1 && k>0);
 	
-		/*
+		/* versione con  for
 		for(int i = 0; i < array.length; i++) {
             boolean flag = false;
             for(int j = 0; j < array.length-1; j++) {
